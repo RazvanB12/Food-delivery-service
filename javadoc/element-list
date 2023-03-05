@@ -1,0 +1,6 @@
+App
+BusinessLayer
+DataLayer
+PresentationLayer.Controllers
+PresentationLayer.MessageBoxes
+PresentationLayer.Views
